@@ -1,1 +1,3 @@
 ### Hello there...
+
+<img width="666" alt="java 8 and prio java 8  array review example" src="https://steamusercontent-a.akamaihd.net/ugc/862855199469812516/907EBE3A7DD84ED1957DD2551F14EFEE357CC4E4/">
