@@ -1,7 +1,7 @@
 ### Hello, I'm Paweł Niewiarowski,
 
 My favorite technologies:
-* JavaScript: https://www.javascript.com/
+* JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * React: https://reactjs.org/
 * Deno: https://deno.land/
 
