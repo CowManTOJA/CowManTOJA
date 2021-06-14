@@ -11,5 +11,3 @@ Tools that i use:
 * WebStorm: https://www.jetbrains.com/webstorm/
 * Hyper: https://hyper.is/
 * Terminal: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
-
-<img width="300" src="https://steamusercontent-a.akamaihd.net/ugc/862855199469812516/907EBE3A7DD84ED1957DD2551F14EFEE357CC4E4/">
