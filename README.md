@@ -3,7 +3,6 @@
 My favorite technologies:
 * JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * React: https://reactjs.org/
-* Deno: https://deno.land/
 
 
 Tools that i use:
